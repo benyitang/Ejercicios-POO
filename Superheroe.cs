@@ -17,20 +17,4 @@ public class Superheroe
         return $"Nombre: {Nombre}, Descripción: {Descripcion}, Capa: {Capa}";
     }
 }
-
-
-class Program
-{
-    static void Main()
-    {
-
-        Superheroe miHeroe = new Superheroe("Batman");
-
-        miHeroe.Descripcion = "El caballero de la noche";
-        miHeroe.Capa = true;
-
-
-        Console.WriteLine(miHeroe.ToString());
-    }
-}
 }

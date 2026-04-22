@@ -1,5 +1,15 @@
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\bin\Debug\net10.0\Ejercicios-POO.exe
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\bin\Debug\net10.0\Ejercicios-POO.deps.json
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\bin\Debug\net10.0\Ejercicios-POO.runtimeconfig.json
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\bin\Debug\net10.0\Ejercicios-POO.dll
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\bin\Debug\net10.0\Ejercicios-POO.pdb
 C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.AssemblyInfoInputs.cache
 C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.AssemblyInfo.cs
 C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.sourcelink.json
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.dll
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\refint\Ejercicios-POO.dll
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.pdb
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\Ejercicios-POO.genruntimeconfig.cache
+C:\Users\alumno\Documents\GitHub\Ejercicios-POO\obj\Debug\net10.0\ref\Ejercicios-POO.dll
