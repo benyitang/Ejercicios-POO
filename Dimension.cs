@@ -1,4 +1,5 @@
 using System;
+namespace Ejercicios{
 public class Dimension
 {
     public double Alto { get; set; }
@@ -24,4 +25,5 @@ public class Dimension
     {
         return $"Alto: {Alto}, Ancho: {Ancho}, Profundidad: {Profundidad}, Volumen: {GetVolumen()}";
     }
+}
 }

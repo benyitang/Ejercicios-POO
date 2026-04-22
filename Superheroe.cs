@@ -1,19 +1,36 @@
 using System;
+namespace Ejercicios{
 public class Superheroe
 {
     public string Nombre { get; set; }
     public string Descripcion { get; set; }
     public bool Capa { get; set; }
-
-
     public Superheroe(string nombre)
     {
         Nombre = nombre;
         Descripcion = "void";
         Capa = false;
     }
+
     public override string ToString()
     {
         return $"Nombre: {Nombre}, Descripción: {Descripcion}, Capa: {Capa}";
     }
+}
+
+
+class Program
+{
+    static void Main()
+    {
+
+        Superheroe miHeroe = new Superheroe("Batman");
+
+        miHeroe.Descripcion = "El caballero de la noche";
+        miHeroe.Capa = true;
+
+
+        Console.WriteLine(miHeroe.ToString());
+    }
+}
 }

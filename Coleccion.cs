@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System;
+namespace Ejercicios{
 
 public class Coleccion
 {
@@ -83,4 +84,5 @@ public class Coleccion
         }
         return sb.ToString();
     }
+}
 }

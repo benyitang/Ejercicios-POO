@@ -1,4 +1,5 @@
 using System;
+namespace Ejercicios{
 public class Figura
 {
     public string Codigo { get; set; }
@@ -20,4 +21,5 @@ public class Figura
     {
         return $"Código: {Codigo}, Precio: {Precio}\n{Superheroe}\n{Dimensiones}";
     }
+}
 }
